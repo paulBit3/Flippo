@@ -1,4 +1,4 @@
-# Getting Started with Flippo App
+# Getting Started with Flippo App - Developed using React(Class Component, State, Props, and conditional rendering).
 
 Flippo is a small memory game built in React that let you flip matched cards in green color or flip it back over.
 
